@@ -1,0 +1,9 @@
+body {
+  font-family: "Oswald";
+}
+.block {
+  display: flex;
+}
+.img {
+  padding-top: 18px;
+}
